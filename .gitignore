@@ -1,0 +1,9 @@
+.RData
+.tmp_pdf_source.html
+notes.txt
+
+dist/**
+tmp/**
+
+*.pdf
+*.zip

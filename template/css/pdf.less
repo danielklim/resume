@@ -1,0 +1,181 @@
+@import elements;
+
+body.pdf {
+    color: black;
+
+    a {
+        text-decoration: none;
+        color: black;
+    }
+    .container {
+        width: 1000px;
+        margin: 0 auto;
+        padding: 0;
+        background: none;
+        border: none;
+        border-width: 8px 0 2px 0;
+        text-align: left;
+    }
+
+    .resume {
+        position:relative;
+        /*padding: 40px 80px;*/
+
+        div{
+            &.cat-body{
+                /*float: left;*/
+                display: inline-block;
+                width: 93%;
+            }
+        
+            &.cat-head{
+                width: 6%;
+                float: left;
+
+                p{
+                    margin-bottom: 0;
+                }
+
+                h3 {
+                    /*margin-left: 4px;*/
+                    margin-top: -20px;
+                    display: inline-block;
+                    font-style: normal;
+                    .rotation(270deg);
+                    -webkit-transform-origin-y: bottom;
+                }        
+            }
+    
+/*            &:not(.header, .cat-head) {
+                display: inline-block;
+                width: 85%;    
+            }
+*/        
+            &#pubs{
+                p{
+                    font-size: 120%;
+                }
+            }
+
+            &.iam{
+                margin-bottom: 10px;
+
+                p{
+                    margin: 0.5em 0;
+                }
+
+            }
+        }
+
+    }
+
+    a[href$='.pdf'] {
+        display: none;
+    }
+
+    h1 {
+        letter-spacing: 0;
+        margin-top: 0;
+        font-size: 48px;
+        text-transform: uppercase;
+        font-weight: normal;
+    }
+    h2 {
+        letter-spacing: 0;
+        text-transform: uppercase;
+        font-style: italic;
+        font-weight: normal;
+    }
+/*    h3 {
+        float: left;
+        display: inline-block;
+        width: 6%;
+        font-style: normal;
+    }
+    h3+p {
+        float: left;
+        display: inline-block;
+        width: 86%;
+    }
+*/    
+/*    h3#iam {
+        margin-top: -10px;
+    }*/
+    h3.weird-indent{
+        margin-left: 13px;
+        margin-top: 0px;
+    }
+
+/*    blockquote {
+        top: 40px;
+        right: 50px;
+        position: absolute;
+    }*/
+
+    ul {
+        li {
+            width: 33%;
+            float: left;
+        }
+
+        dl {
+            margin: 0;
+            padding: 0.3em 0 0;
+            dt {
+                font-size: 122%;
+                font-weight: normal;
+                margin: 0 0 .75em;
+            }
+            dd {
+                padding: 0 2em 0 0;
+            }
+        }
+    }
+
+    ol {
+        float: left;
+        width: 79%;
+        margin: .7em 0 0;
+    
+        li {
+            width: 33%;
+            margin: 0;
+        }
+    
+        li:nth-child(3n) {
+            width: 34%;
+        }
+    
+        li:nth-child(1), li:nth-child(2), li:nth-child(3) {
+            border-top: none;
+        }
+    }
+
+
+    dl {
+        margin: .7em 0 0;
+        display: block;
+        /*width: 86%;*/
+        width: 100%;
+        float: left;
+
+        dt { }
+        dd {
+            page-break-inside: avoid !important;
+        }
+        strong {
+            float: right;
+            margin-top: -2em;
+        }
+        em {
+            font-size: 130%;
+            font-style: normal;
+        }
+
+    }
+
+    img{
+        width: 100%;
+    }
+
+}
