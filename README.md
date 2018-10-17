@@ -32,6 +32,6 @@ docker run -it \
 md2resume pdf -k \
 	--pdfargs="--dpi 300 -s Letter -T 1in -B 1in -L 1in -R 1in --print-media-type" \
 	-t modern2 \
-	./src/geosite.md ./
+	./src/general.md ./
 ```
 
