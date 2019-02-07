@@ -21,6 +21,7 @@ The following is for starting the container on a Windows box, where the host mac
 ```bash
 docker run -it \
 	--name markdown-resume \
+	--rm \
 	-v "c:\Users\Daniel\Documents\resume":/resume \
 	-v "c:\Users\Daniel\Documents\resume\template":/app/templates/modern2 \
 	markdown-resume
@@ -32,6 +33,6 @@ docker run -it \
 md2resume pdf -k \
 	--pdfargs="--dpi 300 -s Letter -T 1in -B 1in -L 1in -R 1in --print-media-type" \
 	-t modern2 \
-	./src/general.md ./
+	./src/general-060219.md ./
 ```
 
