@@ -1,7 +1,7 @@
 <div markdown="1" style='float: left; margin-bottom: 20px;' class='header'>
 
 # Daniel Lim
-## Security Researcher, Data Analyst
+## Technologist, Data & Software Engineer
 
 </div>
 
@@ -26,9 +26,9 @@
 
 <div class="iam cat-body">
 
-<p>...a technologist & technical leader with a deep background in data analysis and security research.</p>	
+<p>...a technologist with a deep background in data analysis and software engineering.</p>	
 
-<p>...passionate about inciting positive change, whether incremental or epochal.</p>	
+<p>...a technical leader passionate about inciting positive change, whether incremental or epochal.</p>	
 
 </div>
 
@@ -46,7 +46,7 @@
 
 University of California, Los Angeles
 : *Ph.D., Political Science*
-__2018 (expected)__
+__2019__
 : *M.A., Political Science*
 __2013__
 : *M.S., Statistics*
@@ -57,21 +57,6 @@ Yale University
 __2006__
 
 </div>
-<!-- ------
-
-#### skills {#skills}
- -->
-<!-- * Web Design
-  : Assertively exploit wireless initiatives rather than synergistic core competencies.
-
-* Interface Design
-  : Credibly streamline mission-critical value with multifunctional functionalities.
-
-* Project Direction
-  : Proven ability to lead and manage a wide variety of design and development projects in team and independent situations.
- -->
-
--------
 
 <div markdown="1" class='cat-head'>
 	
@@ -81,43 +66,51 @@ __2006__
 
 </div>
 
-<div markdown="1" class='cat-body'>
-
-[United States Army](http://www.arcyber.army.mil/)
-: *Cyber Operations Officer (17A)*
-__2015 -- Ongoing__
-Planned operations and led CST elements in support of offensive and defensive cyber operations. Developed and taught curriculum to train the Army's cyber force.
-
-[Defense Digital Service](https://dds.mil)
-: *Developer*
-__2017__
-Developed 0-day and n-day exploits in support of joint cyber operations. Supported Army's talent management mission, running workshops at DEFCON and CornCon cybersecurity conferences.
-
-[ApplyMap](https://www.indiegogo.com/projects/applymap-expert-college-advice-for-everyone#/) (Los Angeles, CA)
-: *Cofounder & Technical Lead*
-__2013 -- 2015__
-Developed core IP including a novel method for predicting college admissions probability and a patent-pending portfolio optimization algorithm to de-risk and maximize return on college applications. Raised over $90K in seed funding from crowdfunding and accelerators.
-
-University of California, Los Angeles
-: *Instructor*
-__2010 -- 2014__
-Instructor of Record for "Intro to Data Analysis," course that is required for all UCLA undergraduate political science majors. Writing Consultant at the Graduate Writing Center, helping graduate and professional school peers improve writing skills.
-
-First Capitol Consulting, Inc. (Los Angeles, CA)
-: *IT Manager*
-__2008 - 2009__
-Designed and co-write software for streamlining tax consulting processes, increasing client capacity by 50% with only 10% increase in staff size. Managed day to day technical operations.
-
-AndyPrep Academy (Seoul, South Korea)
-: *College Admissions Consultant*
-__2007 -- 2010__
-Developed admissions consulting process based on statistical regression, improving fit between clients and their goals. Increased academy-wide "reach" yield by 33% and attained personal yield rate of 38% for clients entering Ivy tier colleges.
-
-Center for Strategic & International Studies
-: *Research Consultant*
-__2006 -- 2008__
-Secured a $100,000 grant to study the impacts of the Korean-American community on U.S. foreign policy. Worked with reps. from RAND, the Congressional Research Service and grassroots groups in LA, NY and DC, increasing awareness among policy advisors and community leaders of political impact of the KA community.
-
+<div class='cat-body'>
+	<dl>
+		<dt>
+			<a href="https://geosite.io/">Geosite</a>,
+			<em>Chief Engineer</em>
+			<strong>2019 (ongoing)</strong> 
+		</dt>
+		<dd>Designing, building, and maintaining the Geosite application and stack, with work ranging from nudging things around on SCSS stylesheets to configuring the Kubernetes infrastructure for production deployment.</dd>
+		<dt>
+			<a href="http://www.arcyber.army.mil/">United States Army</a>,
+			<em>Cyber Operations Officer (17A)</em>
+			<strong>2015 — 2019</strong> 
+		</dt>
+		<dd>Planned operations and led CST elements in support of offensive and defensive cyber operations. Developed and taught curriculum to train the Army’s cyber force.</dd>
+		<dt>
+			<a href="https://dds.mil">Defense Digital Service</a>,
+			<em>Developer</em>
+			<strong>2017</strong>
+		</dt>
+		<dd> Developed 0-day and n-day exploits in support of joint cyber operations. Supported Army’s talent management mission, running workshops at DEFCON and CornCon cybersecurity conferences.</dd>
+		<dt>
+			<a href="https://www.indiegogo.com/projects/applymap-expert-college-advice-for-everyone#/">ApplyMap</a> (Los Angeles),
+			<em>Cofounder &amp; Technical Lead</em>
+			<strong>2013 — 2015</strong>
+		</dt>
+		<dd>Developed core IP including a novel method for predicting college admissions probability and a patent-pending portfolio optimization algorithm to de-risk and maximize return on college applications. Raised over $90K in seed funding from crowdfunding and accelerators.</dd>
+		<dt>
+			University of California, Los Angeles,
+			<em>Instructor</em>
+			<strong>2010 — 2014</strong>
+		</dt>
+		<dd>Instructor of Record for “Intro to Data Analysis,” course that is required for all UCLA undergraduate political science majors. Writing Consultant at the Graduate Writing Center, helping graduate and professional school peers improve writing skills.</dd>
+		<dt>
+			AndyPrep Academy (Seoul),
+			<em>College Admissions Consultant</em>
+			<strong>2007 — 2010</strong>
+		</dt>
+		<dd>Developed statistical regression based admissions consulting process, improving client-school fit. Increased academy “reach” yield by 33% and attained 38% personal yield for clients’ Ivy League admissions.</dd>
+		<dt>
+			Center for Strategic &amp; International Studies,
+			<em>Research Consultant</em>
+			<strong>2006 — 2008</strong>
+		</dt>
+		<dd>Secured a $100,000 grant to study the impacts of the Korean-American community on U.S. foreign policy. Worked with reps. from RAND, the Congressional Research Service and grassroots groups in LA, NY and DC, increasing awareness among policy advisors and community leaders of political impact of the KA community.</dd>
+	</dl>
 </div>
 
 <div style='height:10px;width:100%;page-break-after:always;' class='print-only'></div>
@@ -150,7 +143,9 @@ Secured a $100,000 grant to study the impacts of the Korean-American community o
 
 <div markdown="1" class='cat-body' id='pubs'>
 
-Lim, D. 2014. A Method and System for Creating a List of Organizations Based on an Individual's Preferences and Personal Characteristics. U.S. Patent Application 14257986, filed April 2014. Patent Pending.
+Lim, D. "Cyber Officers Must be Technical Experts Too." Army Magazine. May, 2018.
+
+Lim, D. 2014. A Method and System for Creating a List of Organizations Based on an Individual's Preferences and Personal Characteristics. U.S. Patent Application 14257986, April 2014.
  
 Lim, D. "Immigration Policy, Native Institutions and Incorporation Among Marriage Migrants in Korea." Unpublished paper. Presented at the Midwest Political Science Association Conference 2012, Chicago, IL.
 
@@ -172,21 +167,25 @@ Choi B, Lim D, and Mitchell J. "Korean-American Attitudes toward and Impact on U
 
 <div markdown='1' class='cat-body' id='pubs'>
 
-Certified Information Systems Security Professional
-: *CISSP*
-**2017**
+<dl>
+	<dt>
+		Certified Information Systems Security Professional (CISSP)
+		<strong>2017</strong>
+	</dt>
+	<dt>
+		Cisco Certified Network Associate (CCNA)
+		<strong>2016</strong>
+	</dt>
+	<dt>
+		GIAC Exploit Researcher and Advanced Penetration Tester (GXPN)
+		<strong>2016</strong>
+	</dt>
+	<dt>
+		GIAC Network Forensic Analyst (GNFA)
+		<strong>2016</strong>
+	</dt>
 
-Cisco Certified Network Associate
-: *CCNA*
-**2016**
-
-GIAC Exploit Researcher and Advanced Penetration Tester 
-: *GXPN*
-**2016**
-
-GIAC Network Forensic Analyst
-: *GNFA*
-**2016**
+</dl>
 
 </div>
 
